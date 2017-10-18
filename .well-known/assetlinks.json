@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.netdocuments.ndandroid",
+    "sha256_cert_fingerprints":
+    ["1A:88:C6:79:77:9E:BD:BC:3B:74:E1:1C:19:D5:F7:1C:10:D1:63:9F:3C:A0:6E:00:28:46:5F:DB:8E:F9:5A:02"]
+  }
+}]
